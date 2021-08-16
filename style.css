@@ -1,0 +1,150 @@
+.imagem{
+
+	width: 100%;
+	background: Montserat;
+}
+
+
+
+
+#principal{
+		
+		
+
+}
+
+.titulo{
+
+	text-align: center;
+	font:  normal 48px Montserrat, Arial, sans-serif;
+	color:#232323 ;
+
+}
+
+.a{
+
+	font: normal 15px Segoe UI, Arial, sans-serif;
+	color: #a0a0a0;
+	text-align: center;
+}
+
+
+#conteudo{
+	position: relative;
+	width: 100%;
+	padding-top: 50px;
+
+
+}
+
+#historia{
+
+		width: 44%;
+		position: relative;
+		left: 28%;
+}
+
+
+.foguete{
+
+	width: 80px;
+	position: relative;
+	left: 36%;
+	padding-top: 70px;
+}
+
+
+.b{
+
+    font: normal 15px Segoe UI, Arial, sans-serif;
+	color: #a0a0a0;
+	width: 300px;
+	position: relative;
+	left: 17%;
+	text-align: center;
+	
+
+}
+
+.c{
+
+	font: normal 17px Segoe UI, Arial, sans-serif;
+	color: #232323;
+	width: 300px;
+	position: relative;
+	left: 17%;
+	text-align: center;
+
+
+}
+
+.olhos{
+
+	font-size: 4rem;
+	position: relative;
+	color: #A7FBD3;
+	left: 38%;
+
+}
+
+
+#cara{
+	position: relative;
+	bottom: 180px ;
+	left: 48%;
+	
+	
+}
+
+.diamante{
+
+	font-size: 4rem;
+	position: relative;
+	color: #A7FBD3;
+	left: 39%;
+}
+
+#joia{
+	position: relative;
+	bottom: 250px ;
+	left: 72%;
+	
+	
+}
+
+
+#missao{
+	width: 300px;
+	position: relative;
+	left: 20%;
+	
+	
+}
+
+
+#visao{
+	width: 300px;
+	position: relative;
+	left: 40%;
+	bottom: 175px;
+
+}
+
+#valores{
+	width: 300px;
+	position: relative;
+	bottom: 370px;
+	left: 60%;
+}
+
+.Title{
+	font:bold 17px Segoe UI, Arial, sans-serif; 
+	text-align: center;
+
+}
+
+.text{
+	font: normal 15px Segoe UI, Arial, sans-serif;
+	color:#a0a0a0 ;
+	text-align: center;
+}
