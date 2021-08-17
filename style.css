@@ -1,26 +1,5 @@
-.imagem{
 
-	width: 100%;
-	background: Montserat;
-}
-
-
-
-.titulo{
-
-	text-align: center;
-	font:normal 48px Montserrat, Arial, sans-serif;
-	color:#232323 ;
-
-}
-
-.a{
-
-	font: normal 15px Segoe UI, Arial, sans-serif;
-	color: #a0a0a0;
-	text-align: center;
-}
-
+/*  INICIO IDS */
 
 #conteudo{
 	position: relative;
@@ -38,44 +17,13 @@
 		left: 28%;
 }
 
-
-.foguete{
-
-	width: 80px;
-	position: relative;
-	left: 36%;
-	padding-top: 70px;
-}
-
-
-
-.olhos{
-
-	font-size: 4rem;
-	position: relative;
-	color: #A7FBD3;
-	left: 38%;
-	padding-top: 70px;
-
-}
-
-
 #cara{
 	position: relative;
 	bottom: 180px ;
-	left: 48%;
-	
+	left: 48%;	
 	
 }
 
-.diamante{
-
-	font-size: 4rem;
-	position: relative;
-	color: #A7FBD3;
-	left: 38%;
-	padding-top: 70px;
-}
 
 #joia{
 	position: relative;
@@ -112,19 +60,6 @@
 	
 }
 
-.Title{
-	font:bold 17px Segoe UI, Arial, sans-serif; 
-	text-align: center;
-
-}
-
-.text{
-	font: normal 15px Segoe UI, Arial, sans-serif;
-	color:#a0a0a0 ;
-	text-align: center;
-}
-
-
 #frase{
 	background-image: url('Materiais/635703-1.jpg');
     background-size: 100%;
@@ -139,21 +74,6 @@
 	height: 100%;
 	text-align: center;
 
-}
-
-.yoda{
-width: 70px;
-
-}
-
-.frase_yoda{
-	padding-top: 10%;
-	font: Montserrat, Arial, sans-serif ;
-}
-
-.nome_yoda{
-
-	font: Andale Mono, monospace;
 }
 
 #servico{
@@ -191,6 +111,126 @@ width: 70px;
 	right: 12%;
 
 
+}
+
+
+#CONTATO{
+
+    background: #3E194D;
+    position: relative;
+    height: 700px;
+
+}
+
+#formulario{
+
+    position: absolute;
+    background: #FFFFFF;
+    bottom: 160px;
+    left: 60%;
+    padding: 60px;
+    border: 0px solid white;
+    border-radius: 10px;
+
+}
+
+
+#infos{
+
+	width: 400px;
+	position: relative;
+	top: 15%;
+	left: 20%;
+}
+
+
+/*  FIM IDS */
+
+
+
+
+/*  INICIO CLASSES */
+
+.imagem{
+
+	width: 100%;
+	background: Montserat;
+}
+
+
+
+.titulo{
+
+	text-align: center;
+	font:normal 48px Montserrat, Arial, sans-serif;
+	color:#232323 ;
+
+}
+
+.a{
+
+	font: normal 15px Segoe UI, Arial, sans-serif;
+	color: #a0a0a0;
+	text-align: center;
+}
+
+
+.foguete{
+
+	width: 80px;
+	position: relative;
+	left: 36%;
+	padding-top: 70px;
+}
+
+
+
+.olhos{
+
+	font-size: 4rem;
+	position: relative;
+	color: #A7FBD3;
+	left: 38%;
+	padding-top: 70px;
+
+}
+
+.diamante{
+
+	font-size: 4rem;
+	position: relative;
+	color: #A7FBD3;
+	left: 38%;
+	padding-top: 70px;
+}
+
+
+.Title{
+	font:bold 17px Segoe UI, Arial, sans-serif; 
+	text-align: center;
+
+}
+
+.text{
+	font: normal 15px Segoe UI, Arial, sans-serif;
+	color:#a0a0a0 ;
+	text-align: center;
+}
+
+
+.yoda{
+width: 70px;
+
+}
+
+.frase_yoda{
+	padding-top: 10%;
+	font: Montserrat, Arial, sans-serif ;
+}
+
+.nome_yoda{
+
+	font: Andale Mono, monospace;
 }
 
 
@@ -241,26 +281,6 @@ width: 70px;
 }
 
 
-#CONTATO{
-
-    background: #3E194D;
-    position: relative;
-    height: 700px;
-
-}
-
-#formulario{
-
-    position: absolute;
-    background: #FFFFFF;
-    bottom: 160px;
-    left: 60%;
-    padding: 60px;
-    border: 0px solid white;
-    border-radius: 10px;
-
-}
-
 .title-contato{
 
     font: bold 48px Montserrat, Arial, sans-serif;
@@ -287,14 +307,6 @@ width: 70px;
 
 }
 
-#infos{
-
-	width: 400px;
-	position: relative;
-	top: 15%;
-	left: 20%;
-}
-
 
 .tamanho{
 	width: 300px;
@@ -318,3 +330,4 @@ width: 70px;
 	background: #F5F5F5;
 }
 
+/*  FIM CLASSES */
