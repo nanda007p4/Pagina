@@ -162,3 +162,87 @@ width: 70px;
 
 	font: Andale Mono, monospace;
 }
+
+#servico{
+	position: relative;
+	margin-bottom: 100px;
+}
+
+#desenvolvimento{
+	position: absolute;
+	width: 23%;
+	bottom: 330px;
+	left: 12%;
+}
+
+#internet{
+	position: absolute;
+	width: 23%;
+	bottom: 170px;
+	left: 12%;
+
+}
+
+#consultoria{
+	position: absolute;
+	width: 23%;
+	bottom: 330px;
+	right: 12%;
+
+}
+
+#minicursos{
+	position: absolute;
+	width: 23%;
+	bottom: 170px;
+	right: 12%;
+
+
+}
+
+
+.title2{
+	font: normal 20px "Segoe UI", Arial, sans-serif;
+	text-align: center;
+	color: #999999;
+	margin-top: 100px;
+	margin-bottom: 0px;
+
+}
+
+.margin{
+	margin: 0px;
+
+}
+
+.img-servicos{
+	position: relative;
+	left: 39%;
+}
+
+.esquerda{
+	font: bold 17px "Segoe UI", Arial, sans-serif;
+	text-align: left;
+	color: #252525;
+}
+
+.direita{
+	font: bold 17px "Segoe UI", Arial, sans-serif;
+	text-align: right;
+	color: #252525;
+
+
+}
+
+.text-left{
+	font: normal 15px "Segoe UI", Arial, sans-serif;
+	text-align: left;
+	color: #999999;
+}
+
+.text-right{
+	font: normal 15px "Segoe UI", Arial, sans-serif;
+	text-align: right;
+	color: #999999;
+
+}
