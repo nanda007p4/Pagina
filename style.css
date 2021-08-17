@@ -246,3 +246,86 @@ width: 70px;
 	color: #999999;
 
 }
+
+
+
+
+
+
+#CONTATO{
+
+    background: #3E194D;
+    position: relative;
+    height: 700px;
+
+}
+
+#formulario{
+
+    position: absolute;
+    background: #FFFFFF;
+    bottom: 160px;
+    left: 60%;
+    padding: 60px;
+    border: 0px solid white;
+    border-radius: 10px;
+
+}
+
+.title-contato{
+
+    font: bold 48px Montserrat, Arial, sans-serif;
+    color: #FFFFFF;
+    text-aling: left;
+
+}
+
+.img-contato{
+
+    position: relative;
+    top: 40px;
+    width: 325px;
+
+}
+
+.buttom{
+
+    background: #3E194D;
+    color: #A7FBD3;
+    padding: 5px 15px;
+    border: 0px solid white;
+    border-radius: 5px;
+
+}
+
+#infos{
+
+	width: 400px;
+	position: relative;
+	top: 15%;
+	left: 20%;
+}
+
+
+.tamanho{
+	width: 300px;
+}
+
+.tam{
+	height:20px;
+
+}
+
+.tam-1{
+	height:100px;
+}
+
+.noborder{
+	border: none;
+
+}
+
+.background{
+	background: #F5F5F5;
+}
+
